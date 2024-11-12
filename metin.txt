@@ -1,1 +1,2 @@
 Debug.Log("Merhaba")
+Debug.Log("selam")
